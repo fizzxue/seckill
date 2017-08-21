@@ -1,4 +1,4 @@
-#seckill
+# seckill
 * 慕课网秒杀项目学习:
     * 使用作为本应用的mvc框架,使用`bootstrap`作为前端框架
     * 使用`redis`提供缓存存储,使用jedis操作redis
