@@ -1,0 +1,4 @@
+# idea project setting
+*.idea
+*.out
+*.target
